@@ -1,0 +1,13 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.field{
+    margin-bottom: 20px;
+}
+
+.submitBtn {
+    width: 100%;
+}

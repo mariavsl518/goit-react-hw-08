@@ -1,0 +1,42 @@
+.userMenu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navMenu{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: space-between;
+}
+
+.welcomeLogout{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: space-between;
+}
+
+.logoutBtn{
+    width: 60px;
+    height: 30px;
+    font-size: 12px;
+    padding: 0;
+    text-align: center;
+    border: 1px solid none;
+    color: rgb(255, 255, 255);
+}
+
+.logoutBtn:hover{
+    border: 1px solid rgb(45, 26, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgb(45, 26, 255);
+}
+.navlink{
+    color: grey
+}
+
+.navlink:hover{
+    color: rgb(45, 26, 255);
+}

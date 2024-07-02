@@ -2,3 +2,11 @@
     display: flex;
     gap: 20px;
 }
+
+.navLink {
+    color: grey;
+}
+
+.navLink:hover {
+    color: rgb(45, 26, 255);
+}
